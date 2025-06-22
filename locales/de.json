@@ -1,0 +1,129 @@
+{
+  "header": "PDFinho",
+  "combine": {
+    "title": "PDFs kombinieren",
+    "description": "Kombiniere mehrere PDFs zu einem einzigen PDF:"
+  },
+  "home": {
+    "title": "Willkommen bei PDFinho",
+    "description": "Ein vollständig client-seitiges PDF-Tool, das dir hilft, PDFs zu bearbeiten. Es kann unbegrenzt oft verwendet werden, ohne dass Du dich registrieren oder anmelden musst.",
+    "button": {
+      "combine": "Kombinieren",
+      "edit": "Bearbeiten",
+      "converter": "Umwandeln",
+      "about": "Über"
+    }
+  },
+  "edit": {
+    "title": "PDF bearbeiten",
+    "subtitle": "Füge Text und Unterschriften zu deinem PDF hinzu!",
+    "dialog": {
+      "title": "Hinzufügen",
+      "tabs": {
+        "add": "Hinzufügen",
+        "addText": {
+          "title": "Text",
+          "description": "Text Optionen",
+          "size": "Größe",
+          "color": "Farbe",
+          "font": "Schriftart",
+          "placeholder": "Text eingeben",
+          "text": "Text"
+        },
+        "addSignature": {
+          "title": "Unterschrift",
+          "description": "Unterschrift Optionen",
+          "size": "Größe",
+          "font": "Schriftart",
+          "uploadOption": "Unterschrift hochladen",
+          "generate": "Unterschrift erstellen",
+          "nameOption": "Name eingeben und Unterschrift generieren",
+          "preview": "Unterschrift Vorschau"
+        },
+        "addImage": {
+          "title": "Bild",
+          "description": "Bild Optionen",
+          "size": "Größe",
+          "width": "Breite",
+          "height": "Höhe"
+        },
+        "addCheckbox": {
+          "title": "Checkbox",
+          "description": "Checkbox Optionen",
+          "size": "Größe",
+          "color": "Farbe"
+        }
+      }
+    }
+  },
+  "description": "Ein vollständig client-seitiges PDF-Tool, das dir hilft, PDFs zu bearbeiten.",
+  "button": {
+    "drag": {
+      "text": "Hier klicken oder Dateien per Drag & Drop hinzufügen"
+    },
+    "combine": "PDFs kombinieren",
+    "download": "Herunterladen",
+    "reset": "Zurücksetzen",
+    "next": "Weiter",
+    "previous": "Zurück",
+    "ok": "OK",
+    "close": "Schließen"
+  },
+  "label": {
+    "flatten": "PDFs glätten",
+    "compress": "Komprimieren",
+    "10P": "10%",
+    "20P": "20%",
+    "30P": "30%",
+    "40P": "40%",
+    "50P": "50%",
+    "preview": "Vorschau",
+    "upload": "Hochladen",
+    "none": "Keine",
+    "pdf": "PDF",
+    "word": "Word",
+    "jpg": "JPG",
+    "png": "PNG",
+    "functions": "Funktionen",
+    "name": "Name"
+  },
+  "about": {
+    "title": "Über dieses Projekt",
+    "description": "Dieses Anwendung ist ein vollständig client-seitiges PDF-Tool, das dir hilft, PDFs zu bearbeiten. Es kann unbegrenzt oft verwendet werden, ohne dass Du dich registrieren oder anmelden musst.",
+    "github": "Besuche unser GitHub Repository"
+  },
+  "converter": {
+    "title": "Dateien konvertieren",
+    "description": "Konvertiere deine Dateien in verschiedene Formate:",
+    "download": "Datei steht zum Download bereit:",
+    "titleConvert": "Was möchtest du tun?"
+  },
+  "sidebar": {
+    "home": "Startseite",
+    "combine": "PDFs kombinieren",
+    "edit": "PDF ausfüllen/bearbeiten",
+    "about": "Über dieses Projekt",
+    "settings": "Einstellungen"
+  },
+  "privacy": {
+    "timestamp": "Letzte Aktualisierung: 01.07.2025",
+    "title": "Datenschutz",
+    "description": "Diese Anwendung speichert keine Daten. Alle Operationen werden lokal im Browser durchgeführt, ohne dass Daten an Server gesendet werden.",
+    "hosting": {
+      "title": "Hosting",
+      "description": "Diese Website wird auf [Name] gehostet. Der Anbieter ist [Name, Adresse]. Beim Besuch der Website erfasst [Name] u.a. Ihre **IP-Adresse** und weitere technische Daten (z.B. Browsertyp, Betriebssystem, Zeitpunkt des Zugriffs). Diese Daten werden ausschließlich für den sicheren Betrieb und die Fehleranalyse der Website verarbeitet. Mehr Informationen finden Sie in der Datenschutzerklärung von [Name]."
+    },
+    "external": {
+      "title": "Externe Dienste",
+      "description": "Diese Anwendung verwendet keine externen Dienste, die Daten sammeln oder verarbeiten. Alle Funktionen sind vollständig client-seitig implementiert und laufen im Browser, ohne dass Daten an Dritte gesendet werden."
+    },
+    "cookies": {
+      "title": "Cookies",
+      "description": "Diese Anwendung verwendet keine Cookies. Es werden keine Daten auf Ihrem Gerät gespeichert."
+    },
+    "contact": {
+      "title": "Kontakt",
+      "description": "Es findet keine aktive Erhebung oder Verarbeitung personenbezogener Daten statt, z.B. durch Kontaktformulare oder Logins."
+    }
+  }
+}

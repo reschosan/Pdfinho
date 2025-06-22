@@ -1,0 +1,129 @@
+{
+  "header": "PDFinho",
+  "home": {
+    "title": "Welcome to PDFinho",
+    "description": "A fully client-side PDF tool that helps you edit PDFs. You can use it as much as you want without registration or login.",
+    "button": {
+      "combine": "Combine",
+      "edit": "Edit",
+      "converter": "Convert",
+      "about": "About"
+    }
+  },
+  "combine": {
+    "title": "Combine PDFs",
+    "description": "Combine multiple PDFs into a single PDF:"
+  },
+  "edit": {
+    "title": "Edit PDF",
+    "subtitle": "Add text and signatures to your PDF!",
+    "dialog": {
+      "title": "Add",
+      "tabs": {
+        "add": "Add",
+        "addText": {
+          "title": "Text",
+          "description": "Text options",
+          "size": "Size",
+          "color": "Color",
+          "font": "Font",
+          "placeholder": "Enter text",
+          "text": "Text"
+        },
+        "addSignature": {
+          "title": "Signature",
+          "description": "Signature options",
+          "size": "Size",
+          "font": "Font",
+          "uploadOption": "Upload signature",
+          "generate": "Create signature",
+          "nameOption": "Enter name and generate signature",
+          "preview": "Signature preview"
+        },
+        "addImage": {
+          "title": "Image",
+          "description": "Image options",
+          "size": "Size",
+          "width": "width",
+          "height": "height"
+        },
+        "addCheckbox": {
+          "title": "Checkbox",
+          "description": "Checkbox options",
+          "size": "Size",
+          "color": "Color"
+        }
+      }
+    }
+  },
+  "description": "A fully client-side PDF tool that helps you edit PDFs.",
+  "button": {
+    "drag": {
+      "text": "Click here or add files per drag & drop"
+    },
+    "combine": "Combine files",
+    "download": "Download",
+    "reset": "Reset",
+    "next": "Next",
+    "previous": "Previous",
+    "ok": "OK",
+    "close": "Close"
+  },
+  "label": {
+    "flatten": "Flatten Files",
+    "compress": "Compress",
+    "10P": "10%",
+    "20P": "20%",
+    "30P": "30%",
+    "40P": "40%",
+    "50P": "50%",
+    "preview": "Preview",
+    "upload": "Upload",
+    "none": "None",
+    "pdf": "PDF",
+    "word": "Word",
+    "jpg": "JPG",
+    "png": "PNG",
+    "functions": "Functions",
+    "name": "Name"
+  },
+  "about": {
+    "title": "About this project",
+    "description": "This Application is a fully client-side PDF tool that helps you edit PDFs. You can use it as much as you want without registration or login.",
+    "github": "Visit the GitHub repository"
+  },
+  "converter": {
+    "title": "Convert Files",
+    "description": "Convert your files to PDF or other formats:",
+    "download": "File is ready for download:",
+    "titleConvert": "What do you want to convert?"
+  },
+  "sidebar": {
+    "home": "Home",
+    "combine": "Combine",
+    "edit": "Edit",
+    "about": "About",
+    "settings": "Settings"
+  },
+  "privacy": {
+    "timestamp": "Last Update: 01.07.2025",
+    "title": "Privacy Policy",
+    "description": "This application does not store any data. All operations are performed locally in the browser, and no data is sent to any server.",
+    "hosting": {
+      "title": "Hosting",
+      "description": "This website is hosted on [Name]. The provider is [Name, Adress]. When you visit the website, [Name] collects your IP address and other technical data (such as browser type, operating system, and time of access). This data is processed solely for the secure operation and error analysis of the website. For more information, please refer to []’s Privacy Statement."
+    },
+    "external": {
+      "title": "External Services",
+      "description": "This application does not use any external services that collect or process data. All functionality is fully implemented on the client side and runs in the browser without sending any data to third parties."
+    },
+    "cookies": {
+      "title": "Cookies",
+      "description": "This application does not use cookies. No data is stored on your device."
+    },
+    "contact": {
+      "title": "Contact",
+      "description": "This application does not provide any means of contacting the developer directly (e.g., via contact form or email). If you have questions or concerns, please reach out via the platform where this application is published."
+    }
+  }
+}
