@@ -10,7 +10,10 @@ import {
 } from 'lucide-react'
 import { Tooltip, TooltipContent, TooltipTrigger } from './components/ui/tooltip'
 
-const navItems = [
+const NavBar = () => {
+  const location = useLocation()
+
+  const navItems = [
   {
     label: t('sidebar.home'),
     icon: <Home size={28} />,
@@ -37,9 +40,6 @@ const navItems = [
     to: '/about',
   },
 ]
-
-const NavBar = () => {
-  const location = useLocation()
 
   return (
     <nav className="w-full h-16 sm:h-20 flex flex-row items-center bg-gradient-to-br from-[var(--navbarleft)] via-[#2b7a78] to-[var(--navbarright)] shadow-lg fixed top-0 left-0 right-0 z-50">
