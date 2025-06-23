@@ -1,6 +1,18 @@
 # Pdfinho
 Experimental testing of client-side PDF editing (combine, edit, sign, etc.).
 
+This project is implemented with **React** and **Tailwind CSS**.
+
+## Features tested so far
+
+- Combining PDFs
+- Deleting Pages 
+- Editing with:
+  - Text
+  - Headings
+  - Images
+  - Checkboxes
+
 ## Getting Started
 
 1. Install dependencies:
